@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @vqntn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Valentina Quintana
+## 📊 Data Scientist | Data Analyst | Python Enthusiast 🚀  
 
-<!---
-vqntn/vqntn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about data exploration and analysis, with experience in Python for data manipulation, visualization, and modeling. I specialize in transforming raw data into actionable insights by applying statistical techniques, machine learning, and visualization to solve complex problems.  
+
+### 💡 Key Skills:  
+✔️ Python (pandas, numpy, scikit-learn, matplotlib, seaborn)  
+✔️ Exploratory data analysis and modeling  
+✔️ Data visualization and insight interpretation  
+✔️ Web scraping and process automation  
+✔️ SQL for database queries and management  
+
+Always eager to tackle new challenges where data tells a story and drives impact. 🚀  
