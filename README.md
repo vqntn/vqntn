@@ -12,7 +12,7 @@ Hi!, I'm Valentina. Passionate about data exploration and analysis, with experie
   - Excel / Google Sheets
   - Tableau
   - Power BI
-- [Education]
+- [Education](https://github.com/vqntn/vqntn/blob/main/README.md#education)
 - [Certificates]
 - [Contact]
 
