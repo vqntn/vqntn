@@ -13,8 +13,8 @@ Hi!, I'm Valentina. Passionate about data exploration and analysis, with experie
   - Tableau
   - Power BI
 - [Education](https://github.com/vqntn/vqntn/blob/main/README.md#education)
-- [Certificates]
-- [Contact]
+- [Certificates](https://github.com/vqntn/vqntn/blob/main/README.md#certificates)
+- [Contact](https://github.com/vqntn/vqntn/blob/main/README.md#contact)
 
 ## Portfolio Proyects
 
