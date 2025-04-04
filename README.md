@@ -1,13 +1,29 @@
-# 👋 Hi, I’m Valentina Quintana
-## Data Analyst | Python Enthusiast 🚀  
+# Valentina Quintana - Data Analyst Portfolio
+## About  
 
-Passionate about data exploration and analysis, with experience in Python for data manipulation, visualization, and modeling. I specialize in transforming raw data into actionable insights by applying statistical techniques, machine learning, and visualization to solve complex problems.  
+Hi!, I'm Valentina. Passionate about data exploration and analysis, with experience in Python for data manipulation, visualization, and modeling. I specialize in transforming raw data into actionable insights by applying statistical techniques, machine learning, and visualization to solve complex problems.  
 
-### 💡 Key Skills:  
-✔️ Python (pandas, numpy, scikit-learn, matplotlib, seaborn)  
-✔️ Exploratory data analysis and modeling  
-✔️ Data visualization and insight interpretation  
-✔️ Web scraping and process automation  
-✔️ SQL for database queries and management  
+## Table of Contents
+- [About]
+- [Portfolio Projects]
+  - Python
+  - SQL
+  - R
+  - Excel / Google Sheets
+  - Tableau
+  - Power BI
+- [Education]
+- [Certificates]
+- [Contact]
 
-Always eager to tackle new challenges where data tells a story and drives impact. 🚀  
+## Portfolio Proyects
+
+## Education 
+### Universidad de Concepción 
+**Bachelor's degree in Industrial Civil Engineering (Ingeniería Civil Industrial)**  
+2018 - 2024
+
+## Certificates
+
+## Contacts
+
