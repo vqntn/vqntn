@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Valentina Quintana
-## 📊 Data Scientist | Data Analyst | Python Enthusiast 🚀  
+## Data Analyst | Python Enthusiast 🚀  
 
 Passionate about data exploration and analysis, with experience in Python for data manipulation, visualization, and modeling. I specialize in transforming raw data into actionable insights by applying statistical techniques, machine learning, and visualization to solve complex problems.  
 
