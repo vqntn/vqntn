@@ -7,7 +7,7 @@ Hi!, I'm Valentina. Passionate about data exploration and analysis, with experie
 - [About](https://github.com/vqntn/vqntn/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/vqntn/vqntn/blob/main/README.md#portfolio-proyects)
   - Python
-   - [Urban Mobility Analysis]([View repository](https://github.com/username/urban-mobility-project)
+    - [Urban Mobility Analysis]([View repository](https://github.com/username/urban-mobility-project)
 
   
 
