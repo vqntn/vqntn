@@ -21,10 +21,15 @@ In this section, I present data analytics projects with a brief description of t
 
 ### Urban Mobility Analysis
 **Code:**
+
 **Goal:** To develop a method for collecting, filtering, and visualizing human mobility data using the Google Places API, in order to understand urban activity patterns and support decisions in city planning.
-**Description:**
+
+**Description:** This project analyzed popular times data from thousands of public places in Concepción, Chile. The process involved collecting and filtering API data, exploring temporal patterns of activity, and creating visualizations to support urban analysis. The final output includes maps and dashboards to identify peak hours and high-traffic zones.
+
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy, Seaborn, Kepler.gl.
+
 **Results:** The analysis identified peak hours of human mobility in different urban zones, revealing consistent patterns aligned with workday routines. These insights can support decisions in transportation planning, infrastructure investment, and public safety strategies.
 
 
