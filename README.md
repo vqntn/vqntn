@@ -7,7 +7,11 @@ Hi!, I'm Valentina. Passionate about data exploration and analysis, with experie
 - [About](https://github.com/vqntn/vqntn/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/vqntn/vqntn/blob/main/README.md#portfolio-proyects)
   - Python
-   
+   - [Urban Mobility Analysis]([View repository](https://github.com/username/urban-mobility-project)
+     Analysis of popular times data using the Google Places API to understand movement patterns in Chilean city.
+  
+
+  
 - [Education](https://github.com/vqntn/vqntn/blob/main/README.md#education)
 - [Certificates](https://github.com/vqntn/vqntn/blob/main/README.md#certificates)
 - [Contact](https://github.com/vqntn/vqntn/blob/main/README.md#contacts)
