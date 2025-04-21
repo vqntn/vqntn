@@ -20,7 +20,7 @@ Hi!, I'm Valentina. Passionate about data exploration and analysis, with experie
 In this section, I present data analytics projects with a brief description of the tools and technologies used.
 
 ### Urban Mobility Analysis
-**Code:**
+**Code:** [Urban_Mobility_Portfolio.ipynb](https://github.com/vqntn/PortfolioProjects/blob/main/Urban_Mobility_Portfolio.ipynb)
 
 **Goal:** To develop a method for collecting, filtering, and visualizing human mobility data using the Google Places API, in order to understand urban activity patterns and support decisions in city planning.
 
